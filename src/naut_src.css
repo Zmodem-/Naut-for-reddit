@@ -3103,6 +3103,10 @@ body #newlink-with-image-upload .file-upload-button {
     top: 78px;
 }
 
+.search-page .content { background-color: #FFFFFF; }
+
+.search-page .search-header-label { margin-left: 16px; }
+
 .search-page .searchpane {
     margin: 0;
     padding: 0;
